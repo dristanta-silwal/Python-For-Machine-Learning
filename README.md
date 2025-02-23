@@ -19,12 +19,12 @@ This repository is dedicated to documenting my journey through CS477. It will in
 ```
 Python-For-Machine-Learning/
 │
-├── 📄 README.md                # Overview of the repository
 ├── 📁 Assignments/             # Completed homework and project submissions
-├── 📁 Notes/                   # Personal notes and code examples from lectures
-├── 📁 Learning-Resources/      # Additional resources and articles
 ├── 📁 Experiments/             # Code experimentation and practice exercises
+├── 📁 Learning-Resources/      # Additional resources and articles
+├── 📁 Notes/                   # Personal notes and code examples from lectures
 └── 📁 Reports/                 # Reflections, analysis reports, and evaluations
+├── 📄 README.md                # Overview of the repository
 ```
 ---
 
